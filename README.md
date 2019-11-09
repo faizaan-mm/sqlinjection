@@ -1,3 +1,4 @@
+# A Simple PHP website to practice SQL injection
 ## Setup
 1. Setup a server with PHP and MySQL support.
 https://medium.com/better-programming/how-to-install-lamp-stack-on-ubuntu-db77ac018116
